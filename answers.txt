@@ -1,0 +1,4 @@
+Q1: Why might we consider using git?
+
+Answer: To easily track changes, collaborate with others, and maintain a history of the project.
+
